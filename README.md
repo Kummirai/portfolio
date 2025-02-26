@@ -46,7 +46,7 @@ Check out my projects demonstrating these skills in action:
 Feel free to reach out!
 
 - **Email:** ajaxmilton@hotmail.com
-- **Portfolio:** 
+- **Portfolio:** https://miltonkumirai.vercel.app/
 - **LinkedIn:** https://linkedin.com/in/miltonkumirai
 
 ---
