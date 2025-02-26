@@ -202,6 +202,11 @@ a:not([href]):not([tabindex]):focus {
   outline: 0;
 }
 
+.text-holder a {
+  color: #fff;
+  text-decoration: none;
+}
+
 pre,
 code,
 kbd,
