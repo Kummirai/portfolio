@@ -11352,13 +11352,15 @@ a.text-dark:focus {
 
 /* typography */
 p {
-  font-size: calc(16px + (14 - 14) * ((100vw - 300px) / (1300 - 300)));
+  font-size: calc(14px + (14 - 13) * ((100vw - 300px) / (1300 - 300)));
   color: #444;
   opacity: 0.8;
+  font-family: "Open Sans", serif;
 }
 
 .title {
   font-size: calc(15px + (20 - 15) * ((100vw - 300px) / (1300 - 300)));
+  
 }
 
 .icon-md {
