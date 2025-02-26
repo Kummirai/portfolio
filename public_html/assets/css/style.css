@@ -11827,7 +11827,7 @@ pre .code {
   -weblit-transition: 0.5s !important;
   z-index: 2;
   box-shadow: 0 5px 1px rgba(128, 128, 128, 0.13);
-  width: 170px;
+  width: 140px;
   border-radius: 50%;
   aspect-ratio: 1 / 1;
   object-fit: cover;
