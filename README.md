@@ -45,9 +45,9 @@ Check out my projects demonstrating these skills in action:
 
 Feel free to reach out!
 
-- **Email:** your-email@example.com
-- **Portfolio:** [Your Portfolio Link]
-- **LinkedIn:** [Your LinkedIn Profile]
+- **Email:** ajasxmilton@hotmail.com
+- **Portfolio:** 
+- **LinkedIn:** https://linkedin.com/in/miltonkumirai
 
 ---
 
