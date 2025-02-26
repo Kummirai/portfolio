@@ -11362,9 +11362,11 @@ a.text-dark:focus {
 
 /* typography */
 p {
-  font-size: calc(15px + (15 - 14) * ((100vw - 300px) / (1300 - 300)));
+  font-size: calc(16px + (14 - 14) * ((100vw - 300px) / (1300 - 300)));
   color: #444;
-  font-weight: 300;
+  font-weight: 400;
+  text-align: justify;
+  opacity: 0.6;
 }
 
 .title {
