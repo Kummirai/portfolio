@@ -11425,7 +11425,7 @@ pre .code {
       -ms-transform: translate(-50%, -50%);
           transform: translate(-50%, -50%);
   -weblit-transform: translate(-50%, -50%);
-  border: 10px solid white;
+  border: 2px solid white;
   -webkit-transition: .5s !important;
   transition: .5s !important;
   -weblit-transition: .5s !important;
@@ -11516,6 +11516,7 @@ pre .code {
   background-repeat: no-repeat;
   background-attachment: fixed;
   color: #fff;
+  background-position: top;
 }
 
 .header .container {
